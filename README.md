@@ -8,11 +8,4 @@
 
 👨‍💻 Google Hash Code Organizer and Front-End Developer at GCE - IST.
 
-🛠 Experience in ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276D)
+🛠 Experience in ![React](https://img.shields.io/static/v1?logo=react&label=%20&labelColor=000000&message=React&color=61DAFB&style=flat).
