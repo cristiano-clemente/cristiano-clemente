@@ -2,18 +2,13 @@
 
 <img width="35%" align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+🎓 BSc Computer Engineering at Instituto Superior Técnico.
 
-🤔 Exploring new technologies and developing software solutions and quick hacks.
+⚙️ Digital Consultant at ATLAS - People Like Us.
 
-🎓 BSc Computer Engineering @ Instituto Superior Técnico.
+👨‍💻 Google Hash Code Organizer and Front-End Developer at GCE - IST.
 
-💼 Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-
-🌱 Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-
-✍️ Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
+🛠 Experience in ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
