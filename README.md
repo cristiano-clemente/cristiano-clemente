@@ -1,6 +1,6 @@
 <h2> Hey there! 👋 I'm Cris.</h2>
 
-<img width="35%" align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="35%" align="right" src="https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" />
 
 🎓 BSc Computer Engineering at Instituto Superior Técnico.
 
