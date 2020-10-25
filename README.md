@@ -4,8 +4,12 @@
 
 🎓 BSc Computer Engineering at Instituto Superior Técnico.
 
-⚙️ Digital Consultant at ATLAS - People Like Us.
-
 👨‍💻 Google Hash Code Organizer and Front-End Developer at GCE - IST.
 
-🛠 Experience in ![React](https://img.shields.io/static/v1?logo=react&label=%20&labelColor=000000&message=React&color=61DAFB&style=flat).
+⚙️ Digital Consultant at ATLAS - People Like Us.
+
+🛠 Experience in 
+![React](https://img.shields.io/static/v1?logo=react&logoColor=black&label=%20&labelColor=61DAFB&message=React&color=black&style=flat) 
+![HTML](https://img.shields.io/static/v1?logo=html5&logoColor=black&label=%20&labelColor=E34F26&message=HTML&color=black&style=flat) 
+![CSS](https://img.shields.io/static/v1?logo=css3&logoColor=black&label=%20&labelColor=1572B6&message=CSS&color=black&style=flat) 
+![Javascript](https://img.shields.io/static/v1?logo=javascript&logoColor=black&label=%20&labelColor=F7DF1E&message=Javascript&color=black&style=flat).
