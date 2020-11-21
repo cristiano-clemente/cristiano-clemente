@@ -2,7 +2,7 @@
 
 🎓 BSc Computer Engineering at Instituto Superior Técnico.
 
-👨‍💻 Google Hash Code Organizer and Front-End Developer at GCE - IST.
+👨‍💻 Front-End Developer and Google Hash Code Organizer at GCE - IST.
 
 ⚙️ Digital Consultant at ATLAS - People Like Us.
 
