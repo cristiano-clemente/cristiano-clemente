@@ -2,7 +2,7 @@
 
 🎓 BSc Computer Engineering at Instituto Superior Técnico.
 
-👨‍💻 Front-End Developer and Google Hash Code Organizer at GCE - IST.
+👨‍💻 Dev Team Leader and Full-Stack Developer GCE-NEIIST.
 
 ⚙️ Digital Consultant at ATLAS - People Like Us.
 
