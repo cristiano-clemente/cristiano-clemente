@@ -1,5 +1,3 @@
-## Hi there! 👋 I'm Cris 😊.
-
 🎓 BSc Computer Engineering at Instituto Superior Técnico.
 
 👨‍💻 Dev Team Leader and Full-Stack Developer at GCE-NEIIST.
