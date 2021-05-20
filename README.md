@@ -1,6 +1,6 @@
 🎓 BSc Computer Engineering at Instituto Superior Técnico.
 
-👨‍💻 Dev Team Leader and Full-Stack Developer at GCE-NEIIST.
+👨‍💻 Dev Team Leader and Full-Stack Developer at NEIIST.
 
 ⚙️ Digital Consultant at ATLAS - People Like Us.
 
